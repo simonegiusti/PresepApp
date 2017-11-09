@@ -167,7 +167,8 @@ public  class MainActivity extends Activity implements View.OnClickListener {
 			public void onProgressChanged(SeekBar seekBar, int progress,
 					boolean fromUser) {
 				mQueue.offer("C13*" + progress);
-				//Log.e("Progress", String.valueOf(progress));
+//mod
+
 
 			}
 		});
