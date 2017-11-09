@@ -1,5 +1,5 @@
 /*
- * MainActivity.java
+ * MainActivity.java MODIFICATO
  * This file is part of ArduinoYunServer
  *
  * Copyright (C) 2013 - Andreas Rudolf
