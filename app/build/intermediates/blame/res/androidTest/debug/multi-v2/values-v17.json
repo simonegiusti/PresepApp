@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\8cac497e2244be69dd849051fdd2fb3a\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\608ad992dc033b6aa7e93734c53a9002\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-25.4.0.aar\\409f2fc42d095ada9363446ab5dae666\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-25.4.0.aar\\9f150dfa5f5570f566c13ef7c9610ad4\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",

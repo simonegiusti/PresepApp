@@ -4,19 +4,19 @@ ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidM
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
-MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:2:1-33:12
@@ -38,36 +38,36 @@ uses-sdk
 ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml
@@ -98,32 +98,32 @@ ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidM
 		ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:15:22-77
 application
 ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:17:5-31:19
-MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:20:9-41
 	android:icon
@@ -149,32 +149,32 @@ ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\Simone\AndroidStudioProjects\PresepApp\app\src\main\AndroidManifest.xml:28:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\84f040dc4651e7d0182560bafb248481\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\409f2fc42d095ada9363446ab5dae666\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\8cac497e2244be69dd849051fdd2fb3a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\86675e8358e040542bae2e1d2527c16e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\5a13d031f004bdd34797f7bab691bfa3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1f9113d459c08296ffabd243dee4a00a\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\a9d2a69f2f88eae4a0eb0fc6c1ff0731\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\def47c458bd23430b6dce8214c9565ce\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\7f0a4863d7aa660992022475d6bc2718\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\bfc85b95a7af54258b45a731a9e3059e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\b7b14ad97a42e72a98a00629aac54059\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\47fc555378bc0ada6ea05cdbc2928c0f\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\80c36840880718b6f5662dddb1f2d9cc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:preference-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\preference-v7-25.4.0.aar\9f150dfa5f5570f566c13ef7c9610ad4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\608ad992dc033b6aa7e93734c53a9002\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5f362bf68dda7269437175b27554f58c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\c981e3b3817300be66c33fdeae45d0b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\78980906238b1ed03383ca28a8800539\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\47b2b720d70d2792a59e2e53aca6d159\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d35c8512b7ec0d45feb46d07019841de\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\84f63f8db44dcab61ac268bb6d257727\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\9b5e44df40d4ce109597dd6116e96b38\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\247c467e16fffd28acb58f9c54709138\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\0fa742bbe8474e6baf1292565030a079\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\bcfa279144e9f20379e70a8089ac0b55\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:support-v13:25.4.0] C:\Users\Simone\.gradle\caches\transforms-1\files-1.1\support-v13-25.4.0.aar\4d7371174e1b16cdf10c9ce8634bcacf\AndroidManifest.xml:27:13-51
