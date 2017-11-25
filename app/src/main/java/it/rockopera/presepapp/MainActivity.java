@@ -457,10 +457,10 @@ public  class MainActivity extends Activity implements View.OnClickListener {
 			try {
 				mSocket = new Socket(ARDUINO_IP_ADDRESS, PORT);
 				mOutputStream = mSocket.getOutputStream();
-				BufferedReader in = new BufferedReader(new InputStreamReader(mSocket.getInputStream()));
+				//BufferedReader in = new BufferedReader(new InputStreamReader(mSocket.getInputStream()));
 
-				mQueue.offer("INIT");
-				Log.e("Buffer", in.readLine());
+				//mQueue.offer("INIT");
+				//Log.e("Buffer", in.readLine());
 
 			} catch (UnknownHostException e1) {
 				e1.printStackTrace();
