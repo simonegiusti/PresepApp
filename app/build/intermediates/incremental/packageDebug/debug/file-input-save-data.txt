@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Thu Nov 23 09:30:59 CET 2017
+#Sun Nov 26 18:06:24 CET 2017
+1.base=C\:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\assets\\debug
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=C\:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=db.db

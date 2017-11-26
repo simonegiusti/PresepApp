@@ -258,37 +258,56 @@
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignWithParentIfMissing="true"
-        android:layout_centerHorizontal="true"
-        android:layout_centerInParent="false"
-        android:layout_centerVertical="true">
-
-        <ImageButton
-            android:id="@+id/AudioP"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_centerHorizontal="true"
-            android:background="@drawable/play" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/switchgroup"
+        android:layout_marginBottom="61dp">
 
 
     </RelativeLayout>
 
     <ImageButton
-        android:id="@+id/imgbut_OFF"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/OFF"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/volbar"
+        android:layout_alignEnd="@+id/switchgroup"
+        android:background="@drawable/off" />
+
+    <ImageButton
+        android:id="@+id/Loop"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/volbar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="94dp"
+        android:background="@drawable/loop" />
+
+    <ImageButton
+        android:id="@+id/AudioP"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        app:srcCompat="@android:drawable/presence_busy" />
+        android:layout_alignStart="@+id/switchgroup"
+        android:layout_marginBottom="34dp"
+        android:background="@drawable/play" />
 
     <SeekBar
         android:id="@+id/volbar"
-        android:layout_width="314dp"
+        android:layout_width="266dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/switchgroup"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="26dp" />
+
+    <Button
+        android:id="@+id/test_button"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="133dp"
-        android:layout_marginStart="32dp" />
+        android:layout_alignStart="@+id/switchgroup"
+        android:layout_marginBottom="174dp"
+        android:text="test"
+        android:visibility="invisible" />
 
 
 </RelativeLayout>

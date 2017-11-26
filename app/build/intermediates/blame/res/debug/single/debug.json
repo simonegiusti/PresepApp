@@ -880,6 +880,10 @@
         "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\608ad992dc033b6aa7e93734c53a9002\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_off.png.flat",
+        "source": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\src\\main\\res\\drawable\\off.png"
+    },
+    {
         "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_category.xml.flat",
         "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-25.4.0.aar\\9f150dfa5f5570f566c13ef7c9610ad4\\res\\layout\\preference_category.xml"
     },
@@ -1216,6 +1220,10 @@
         "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\608ad992dc033b6aa7e93734c53a9002\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loop.png.flat",
+        "source": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\src\\main\\res\\drawable\\loop.png"
+    },
+    {
         "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\608ad992dc033b6aa7e93734c53a9002\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
@@ -1314,6 +1322,10 @@
     {
         "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "C:\\Users\\Simone\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\608ad992dc033b6aa7e93734c53a9002\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loopstop.png.flat",
+        "source": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\src\\main\\res\\drawable\\loopstop.png"
     },
     {
         "merged": "C:\\Users\\Simone\\AndroidStudioProjects\\PresepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
